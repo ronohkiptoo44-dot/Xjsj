@@ -1,0 +1,6 @@
+{
+  "name": "Object Counter AI",
+  "description": "On-device native Object Counter using TensorFlow Lite, YOLOv8, and MobileNet SSD with CameraX, local historical database logging, and PDF/CSV reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
